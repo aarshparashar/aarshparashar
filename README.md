@@ -1,8 +1,5 @@
-[![MasterHead](https://reconshell.com/wp-content/uploads/2022/05/DevOps_sec.png)]
 <h1 align="center">Hi 👋, I'm Aarsh Parashar</h1>
 <h3 align="center">I am a passionate engineer, always looking to learn new things and apply my existing skills to solve real world problems. I believe in self-­learning and like to explore new technologies and languages. I aim to contribute effectively to the organization with my aptitude for problem solving skills and energy to work in a team while gaining experience and sharpening my skill sets. Areas of Interest : DevOps, DevSecOps, SRE, Platform Engineer, AI, ML and DL</h3>
-
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarshparashar&label=Profile%20views&color=0e75b6&style=flat" alt="aarshparashar" /> </p>
 
