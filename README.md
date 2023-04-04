@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate DevOps engineer, always looking to learn new things and apply my existing skills to solve real world problems. I believe in self-­learning and like to explore new technologies and languages.<br><br>I aim to contribute effectively to the organization with my aptitude for problem solving skills and energy to work in a team while gaining experience and sharpening my skill sets.<br><br>Areas of Interest :<br>DevOps, MLOps, DevSecOps, SRE, Platform Engineer, AI, ML and DL
+As an enthusiastic engineer, I thrive on constantly expanding my knowledge and utilizing my existing skills to tackle real-world challenges. I firmly believe in self-learning and enjoy exploring emerging technologies and programming languages.
+
+My goal is to make a valuable contribution to organizations by utilizing my problem-solving skills, team-oriented mindset, and eagerness to learn and develop new skills.
+
+I'm particularly passionate about the following areas of interest: DevOps, MLOps, GitOps, DevSecOps, SRE, Platform Engineering, and AI, ML, and DL. I look forward to collaborating with others who share my passion for these technologies and working together to achieve successful outcomes.
 
 
 ## 🌐 Socials:
