@@ -26,7 +26,7 @@ Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarshparashar)
 [![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aarsh.parashar)
-[![Linktree](https://img.shields.io/badge/Linktree-%2343E55E.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aarshparashar)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarshparashar@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/aarshparashar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarshparashar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aarshparashar)
@@ -96,30 +96,34 @@ Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrast
 
 ## 📜 Certifications
 
+**Kubernetes & Cloud**
+
 - 🏅 **Certified Kubernetes Administrator (CKA)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AAEB24A8-2D08A5511E1B/)
-- 🏅 **Linux Foundation Certified System Administrator (LFCS)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D16917F3AB2-2D08A5511E1B/)
-- 🏅 **AZ-305: Microsoft Azure Solutions Architect Expert** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DFAC9D8AF8A-2D08A5511E1B/)
-- 🏅 **AZ-104: Microsoft Azure Administrator** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DEAA148B9EC-2D08A5511E1B/)
+- 🏅 **Kubernetes for the Absolute Beginners** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AAEAB044-2D08A5511E1B/)
 - 🏅 **Amazon Elastic Container Service (AWS ECS)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DF18BD81E77-2D08A5511E1B/)
 - 🏅 **Helm for Beginners** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D0FAD6F5B25-2D08A5511E1B/)
-- 🏅 **Learning Linux Basics Course & Labs** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AADBBC83-2D08A5511E1B/)
 - 🏅 **Docker Training Course for the Absolute Beginner** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AAEAADE7-2D08A5511E1B/)
-- 🏅 **Python Developer** — Sololearn · [Verify](https://www.sololearn.com/en/certificates/CC-AEVLDCKV)
-- 🏅 **C++** — Sololearn · [Verify](https://www.sololearn.com/certificates/CT-OMEKE0QI)
 
----
+**Azure**
 
-## 📊 GitHub Stats
+- 🏅 **AZ-305: Microsoft Azure Solutions Architect Expert** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DFAC9D8AF8A-2D08A5511E1B/)
+- 🏅 **AZ-104: Microsoft Azure Administrator** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DEAA148B9EC-2D08A5511E1B/)
 
-<div align="center">
+**Linux**
 
-![Aarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarshparashar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+- 🏅 **Linux Foundation Certified System Administrator (LFCS)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D16917F3AB2-2D08A5511E1B/)
+- 🏅 **Learning Linux Basics Course & Labs** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AADBBC83-2D08A5511E1B/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarshparashar&theme=tokyonight&hide_border=true)
+**Programming — Sololearn**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarshparashar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+- 🏅 **Python Developer** · [Verify](https://www.sololearn.com/en/certificates/CC-AEVLDCKV)
+- 🏅 **Python Intermediate** · [Verify](https://www.sololearn.com/certificates/CC-9PJQT1XQ)
+- 🏅 **Introduction to Python** · [Verify](https://www.sololearn.com/certificates/CC-O1MBVNN8)
+- 🏅 **Python for Beginners** · [Verify](https://www.sololearn.com/certificates/CC-TGSNHOLG)
+- 🏅 **SQL Intermediate** · [Verify](https://www.sololearn.com/certificates/CC-LXBHKAIR)
+- 🏅 **Introduction to SQL** · [Verify](https://www.sololearn.com/certificates/CC-C8POGQVM)
+- 🏅 **C++** · [Verify](https://www.sololearn.com/certificates/CT-OMEKE0QI)
+- 🏅 **C** · [Verify](https://www.sololearn.com/certificates/CT-PDCS2DDM)
 
 ---
 
