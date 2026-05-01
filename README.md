@@ -1,22 +1,132 @@
-# 💫 About Me:
-As an enthusiastic engineer, I thrive on constantly expanding my knowledge and utilizing my existing skills to tackle real-world challenges. I firmly believe in self-learning and enjoy exploring emerging technologies and programming languages.
+<div align="center">
 
-My goal is to make a valuable contribution to organizations by leveraging my problem-solving skills, team-oriented mindset, and eagerness to learn and develop new skills.
+# Hi there, I'm Aarsh Parashar 👋
 
-I'm particularly passionate about the following areas of interest: DevOps, MLOps, GitOps, DevSecOps, SRE, Platform Engineering, and AI, ML, and DL. I look forward to collaborating with others who share my passion for these technologies and working together to achieve successful outcomes.
+### Senior DevOps Engineer · Platform & Reliability Engineering · GPU Infrastructure
 
-## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarshparashar) [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/aarsh.parashar) [![Linktree](https://img.shields.io/badge/Linktree-%23BEBEBE.svg?logo=linktree&logoColor=white)](https://linktr.ee/aarshparashar) [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/aarshparashar/) [![HackerRank](https://img.shields.io/badge/Hackerrank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aarshparashar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer+%40+Paytm;Kubernetes+%7C+AWS+%7C+OpenStack+%7C+Terraform;GPU-Aware+Infrastructure+%7C+HPC+Enthusiast;Observability+%7C+SRE+%7C+Chaos+Engineering)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF6F00.svg?style=for-the-badge&logo=hugging-face&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aarshparashar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aarshparashar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aarshparashar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aarshparashar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
+
+- 🏢 **Currently:** Senior DevOps @ Paytm — AWS (Graviton/ARM64 & x86), EKS, OpenStack
+- ⚙️ **Focus areas:** Platform Engineering · SRE · Infrastructure as Code · Observability
+- 🖥️ **Interests:** GPU/HPC infrastructure, Distributed Systems, Chaos Engineering, Build Systems
+- 🎓 **Education:** Bachelor of Computer Applications — Kumaun University, Nainital
+- 📬 **Reach me at:** [aarshparashar@gmail.com](mailto:aarshparashar@gmail.com)
+
+---
+
+## 🌐 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarshparashar)
+[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aarsh.parashar)
+[![Linktree](https://img.shields.io/badge/Linktree-%2343E55E.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aarshparashar)
+[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/aarshparashar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarshparashar/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aarshparashar)
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Virtualisation**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=for-the-badge&logo=openstack&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+
+**Containers & Orchestration**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+**CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**IaC & Config Management**
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-%2302A8EF.svg?style=for-the-badge&logo=packer&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-%234298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Build Systems**
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-%2343A047.svg?style=for-the-badge&logo=bazel&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-%2300C4B4.svg?style=for-the-badge&logo=ninja&logoColor=white)
+
+**Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
+![Filebeat](https://img.shields.io/badge/Filebeat-%23005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+> 4 production-grade infrastructure projects built to NVIDIA/HPC-level engineering standards.
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [**GPU-Aware Kubernetes Platform**](https://github.com/aarshparashar/project-1-gpu-aware-kubernetes-cluster) | Simulated GPU-aware Kubernetes cluster with priority scheduling, multi-tenant resource governance, and full Prometheus/Grafana observability |
+| 2 | [**C++ Build System & CI/CD**](https://github.com/aarshparashar/project-2-cpp-build-system-ci-cd) | Mesa-inspired modular C++ driver stack using CMake + Ninja with matrix CI builds, ccache, and automated artifact versioning |
+| 3 | [**Production Observability Platform**](https://github.com/aarshparashar/project-3-observability-platform) | Full-stack observability with metrics, structured logs, distributed tracing, SLO tracking, error budgets, and incident simulation |
+| 4 | [**Distributed System + Chaos Testing**](https://github.com/aarshparashar/project-4-distributed-system-chaos-testing) | Fault-tolerant microservices with circuit breakers, retries, chaos injection (latency/kill/packet loss), and resilience metrics |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Certified Kubernetes Administrator (CKA)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AAEB24A8-2D08A5511E1B/)
+- 🏅 **Linux Foundation Certified System Administrator (LFCS)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D16917F3AB2-2D08A5511E1B/)
+- 🏅 **AZ-305: Microsoft Azure Solutions Architect Expert** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DFAC9D8AF8A-2D08A5511E1B/)
+- 🏅 **AZ-104: Microsoft Azure Administrator** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DEAA148B9EC-2D08A5511E1B/)
+- 🏅 **Amazon Elastic Container Service (AWS ECS)** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2DF18BD81E77-2D08A5511E1B/)
+- 🏅 **Helm for Beginners** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D0FAD6F5B25-2D08A5511E1B/)
+- 🏅 **Learning Linux Basics Course & Labs** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AADBBC83-2D08A5511E1B/)
+- 🏅 **Docker Training Course for the Absolute Beginner** — KodeKloud · [Verify](https://kodekloud.com/certificate-verification/2D08B0E178E9-2D08AAEAADE7-2D08A5511E1B/)
+- 🏅 **Python Developer** — Sololearn · [Verify](https://www.sololearn.com/en/certificates/CC-AEVLDCKV)
+- 🏅 **C++** — Sololearn · [Verify](https://www.sololearn.com/certificates/CT-OMEKE0QI)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Aarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarshparashar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarshparashar&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarshparashar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=aarshparashar&icon=6&color=6)](https://visitcount.itsvg.in)
+
+*"Build systems that heal themselves before anyone notices they're broken."*
+
+</div>
