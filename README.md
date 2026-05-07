@@ -46,7 +46,6 @@ Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrast
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 **CI/CD & Automation**
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
