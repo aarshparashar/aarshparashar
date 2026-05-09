@@ -46,6 +46,7 @@ Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrast
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 **CI/CD & Automation**
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -67,7 +68,7 @@ Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrast
 
 **Build Systems**
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Make](https://img.shields.io/badge/Make-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%236D6D6D.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![Bazel](https://img.shields.io/badge/Bazel-%2343A047.svg?style=for-the-badge&logo=bazel&logoColor=white)
 ![Ninja](https://img.shields.io/badge/Ninja-%2300C4B4.svg?style=for-the-badge&logo=ninja&logoColor=white)
 
