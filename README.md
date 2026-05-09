@@ -88,7 +88,7 @@ Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrast
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [**GPU-Aware Kubernetes Platform**](https://github.com/aarshparashar/project-1-gpu-aware-kubernetes-cluster) | Simulated GPU-aware Kubernetes cluster with priority scheduling, multi-tenant resource governance, and full Prometheus/Grafana observability |
-| 2 | [**C++ Build System & CI/CD**](https://github.com/aarshparashar/project-2-cpp-build-system-ci-cd) | Mesa-inspired modular C++ driver stack using CMake + Ninja with matrix CI builds, ccache, and automated artifact versioning |
+| 2 | [**C++ Build System & CI/CD**](https://github.com/aarshparashar/project-2-cpp-build-system-ci-cd) | NVK-inspired modular C++ driver stack (Mesa's NVIDIA Vulkan driver) built with CMake + Ninja, matrix CI builds, ccache, and automated artifact versioning |
 | 3 | [**Production Observability Platform**](https://github.com/aarshparashar/project-3-observability-platform) | Full-stack observability with metrics, structured logs, distributed tracing, SLO tracking, error budgets, and incident simulation |
 | 4 | [**Distributed System + Chaos Testing**](https://github.com/aarshparashar/project-4-distributed-system-chaos-testing) | Fault-tolerant microservices with circuit breakers, retries, chaos injection (latency/kill/packet loss), and resilience metrics |
 
