@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Senior DevOps Engineer at **Paytm (PPSL)**, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
+DevOps @ **Paytm (PPSL)**, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
 
 - 🏢 **Currently:** Senior DevOps @ Paytm — AWS (Graviton/ARM64 & x86), EKS, OpenStack
 - ⚙️ **Focus areas:** Platform Engineering · SRE · Infrastructure as Code · Observability
