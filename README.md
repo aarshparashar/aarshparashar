@@ -2,9 +2,9 @@
 
 # Hi there, I'm Aarsh Parashar 👋
 
-### Senior DevOps Engineer · Platform & Reliability Engineering · GPU Infrastructure
+### Site Reliability Engineer · Platform & Reliability Engineering · GPU Infrastructure
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer+%40+Paytm;Kubernetes+%7C+AWS+%7C+OpenStack+%7C+Terraform;GPU-Aware+Infrastructure+%7C+HPC+Enthusiast;Observability+%7C+SRE+%7C+Chaos+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=SRE+%40+Adobe;Kubernetes+%7C+AWS+%7C+OpenStack+%7C+Terraform;GPU-Aware+Infrastructure+%7C+HPC+Enthusiast;Observability+%7C+SRE+%7C+Chaos+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-DevOps @ **Paytm (PPSL)**, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
+SRE @ **Adobe**, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
 
-- 🏢 **Currently:** Senior DevOps @ Paytm — AWS (Graviton/ARM64 & x86), EKS, OpenStack
+- 🏢 **Currently:** SRE @ Adobe — AWS (Graviton/ARM64 & x86), EKS, OpenStack
 - ⚙️ **Focus areas:** Platform Engineering · SRE · Infrastructure as Code · Observability
 - 🖥️ **Interests:** GPU/HPC infrastructure, Distributed Systems, Chaos Engineering, Build Systems
 - 🎓 **Education:** Bachelor of Computer Applications — Kumaun University, Nainital
