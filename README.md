@@ -33,7 +33,7 @@ Inference SRE @ **Adobe** Firefly, working on large-scale cloud infrastructure, 
 
 ---
 
-## � Professional Experience
+## 💼 Professional Experience
 
 **Adobe** — *Inference & Training Infrastructure SRE, Adobe Firefly* · Jul 2026 – Present · Noida, UP
 - Provision, maintain, and monitor NVIDIA GPU-based AWS infrastructure supporting Firefly training and inference workloads
@@ -72,7 +72,7 @@ Relevant Coursework: Information Retrieval, Functional Programming, Linux and UN
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Cloud & Virtualisation**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
