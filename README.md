@@ -63,15 +63,6 @@ Inference SRE @ **Adobe** Firefly, working on large-scale cloud infrastructure, 
 
 ---
 
-## 🎓 Education
-
-**Kumaun University**
-*Bachelor of Computer Applications (BCA)* · Nainital, Uttarakhand
-
-Relevant Coursework: Information Retrieval, Functional Programming, Linux and UNIX Operating Systems, Linux Tools and Scripting, Linux GPU Compute & Graphics drivers, APT and DNF package managers
-
----
-
 ## 🛠️ Tech Stack
 
 **Cloud & Virtualisation**
