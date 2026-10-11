@@ -33,7 +33,46 @@ Inference SRE @ **Adobe** Firefly, working on large-scale cloud infrastructure, 
 
 ---
 
-## 🛠️ Tech Stack
+## � Professional Experience
+
+**Adobe** — *Inference & Training Infrastructure SRE, Adobe Firefly* · Jul 2026 – Present · Noida, UP
+- Provision, maintain, and monitor NVIDIA GPU-based AWS infrastructure supporting Firefly training and inference workloads
+- Manage infrastructure lifecycle and provisioning using Terraform Enterprise, focused on scalability, reliability, and operational efficiency
+- Drive observability and reliability using Splunk, New Relic, Prometheus, and Grafana to maintain production health
+
+**Paytm** — *DevOps Engineer* · Aug 2024 – Jun 2026 · Noida, UP
+- Designed and managed AWS environments using Graviton/ARM64 & x86 EC2, VPC, and S3 for optimal performance and cost-efficiency
+- Built automated Jenkins/Bash/Groovy CI/CD pipelines with Docker integration for seamless deployments
+- Managed Kubernetes clusters on Amazon EKS for containerized microservices
+- Deployed the Elastic Stack (ELK) with Kibana for system monitoring and log analysis
+- Managed OpenStack-based private cloud environments, including instance provisioning and network configuration
+- Designed and maintained a Prometheus/Grafana/Alertmanager monitoring stack to reduce incident response time
+
+**Codenia** — *DevOps Engineer* · Jan 2023 – Jun 2024 · Noida, UP
+- Migrated PHP services from EC2 to EKS using end-to-end pipelines
+- Provided AWS architecture design and consultation
+- Resolved VPN service issues and implemented MySQL backups
+- Set up G4 & G4ad EC2 GPU instances for AI/ML POCs
+- Migrated Modoboa email infrastructure to Mailcow Docker with zero downtime, including schema transformation and IMAPSync mailbox migration
+
+**SquareOps** — *DevOps Engineer* · Jul 2022 – Dec 2022 · Gurugram, HR
+- Implemented custom Terraform modules for infrastructure management
+- Monitored Kubernetes clusters, reducing downtime and managing scaling
+- Created and maintained a self-hosted GitLab server for internal repositories
+- Established CI/CD pipelines using Jenkins, ArgoCD, and GitHub Actions
+
+---
+
+## 🎓 Education
+
+**Kumaun University**
+*Bachelor of Computer Applications (BCA)* · Nainital, Uttarakhand
+
+Relevant Coursework: Information Retrieval, Functional Programming, Linux and UNIX Operating Systems, Linux Tools and Scripting, Linux GPU Compute & Graphics drivers, APT and DNF package managers
+
+---
+
+## �🛠️ Tech Stack
 
 **Cloud & Virtualisation**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
