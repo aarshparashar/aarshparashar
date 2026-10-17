@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Inference SRE @ **Adobe** Firefly, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
+Inference and Training SRE @ **Adobe** Firefly, working on large-scale cloud infrastructure, Kubernetes orchestration, and observability platforms. I specialise in building reliable, GPU-aware systems and production-grade CI/CD pipelines that operate at scale.
 
 - 🏢 **Currently:** Inference SRE @ Adobe Firefly — AWS, EKS, New Relic, Splunk, Nvidia CUDA, Training & Inference Infrastructure
 - ⚙️ **Focus areas:** Platform Engineering · SRE · Infrastructure as Code · Observability
